@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @muthukumara9629
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @muthukumaravel
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on tech events
+- 📫 You can reach me at muthukumaravel030801@gmail.com
 
 <!---
 muthukumara9629/muthukumara9629 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
