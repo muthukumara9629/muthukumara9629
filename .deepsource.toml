@@ -1,0 +1,47 @@
+version = 1
+
+[[analyzers]]
+name = "test-coverage"
+enabled = true
+
+[[analyzers]]
+name = "javascript"
+enabled = true
+
+[[analyzers]]
+name = "python"
+enabled = true
+
+  [analyzers.meta]
+  runtime_version = "3.x.x"
+
+[[analyzers]]
+name = "ruby"
+enabled = true
+
+[[analyzers]]
+name = "java"
+enabled = true
+
+  [analyzers.meta]
+  runtime_version = "11"
+
+[[analyzers]]
+name = "scala"
+enabled = true
+
+[[analyzers]]
+name = "go"
+enabled = true
+
+  [analyzers.meta]
+  import_root = "github.com/muthukumara9629/muthukumara9629"
+  dependencies_vendored = false
+
+[[analyzers]]
+name = "shell"
+enabled = true
+
+[[analyzers]]
+name = "sql"
+enabled = true
